@@ -47,9 +47,10 @@ npm run dev
 ```
 
 
+
 **API Documentation**
 
-
+```bash
 **Auth**
 
 POST /api/auth/register
@@ -78,6 +79,8 @@ Response:{
   "success": true,
   "avatarUrl": "https://res.cloudinary.com/.../image.jpg"
 }
+```
+
 
 
 **Frontend Pages**
@@ -98,3 +101,6 @@ The backend contains complete authentication logic:
 - User model using Mongoose
 - Cloudinary integration for profile images
 - Centralized error handling architecture
+
+
+**Thank You**
