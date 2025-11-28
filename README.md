@@ -84,6 +84,7 @@ Response:{
 
 
 **Frontend Pages**
+
 - Home Page: buttons for Login and Register
 - Register Page: create new user
 - Login Page: authenticate user
@@ -92,6 +93,7 @@ Response:{
 
 
 **Backend Overview**
+
 The backend contains complete authentication logic:
 - JWT generation & verification
 - Secure HTTP-only cookies (optional)
