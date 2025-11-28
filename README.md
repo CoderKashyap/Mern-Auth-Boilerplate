@@ -84,16 +84,14 @@ Response:{
 
 
 **Frontend Pages**
-
-Home Page – buttons for Login and Register
-Register Page – create new user
-Login Page – authenticate user
-Upload Profile Page – upload profile picture
-Profile Page – shows username and uploaded image
+- Home Page: buttons for Login and Register
+- Register Page: create new user
+- Login Page: authenticate user
+- Upload Profile Page: upload profile picture
+- Profile Page: shows username and uploaded image
 
 
 **Backend Overview**
-
 The backend contains complete authentication logic:
 - JWT generation & verification
 - Secure HTTP-only cookies (optional)
@@ -103,4 +101,3 @@ The backend contains complete authentication logic:
 - Centralized error handling architecture
 
 
-**Thank You**
