@@ -44,10 +44,11 @@ CLOUDINARY_API_SECRET=yourSecret
 
 7. Start backend server:
 npm run dev
-
+```
 
 
 **API Documentation**
+
 
 **Auth**
 
@@ -59,6 +60,7 @@ Response: { success: true, user, token }
 POST /api/auth/login
 Request: { "email": "test@mail.com", "password": "123456" }
 Response: { success: true, user, token }
+
 
 **User Profile**
 
