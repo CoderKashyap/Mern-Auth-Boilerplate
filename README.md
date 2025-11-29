@@ -4,8 +4,8 @@ A full-stack authentication boilerplate with JWT-based login/signup, profile pic
 
 ## Tech Stack
 
-- **Frontend:** Frontend: React, Vite, Tailwind CSS
-- **Backend:**  Node.js, Express, MongoDB, Mongoose
+- **Frontend:** React, Vite, Tailwind CSS
+- **Backend:** Node.js, Express, MongoDB, Mongoose
 - **Other:** Cloudinary for image upload, JWT authentication, Middleware & Error Handling
 
 ---
